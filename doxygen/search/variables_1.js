@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['rank_865',['rank',['../classCajita_1_1SparseMap.html#a0f15d52a3a5de2ce3e7db0539021f26b',1,'Cajita::SparseMap::rank()'],['../classCajita_1_1TileMap.html#add3aa7415111da01508ef9205a02d86d',1,'Cajita::TileMap::rank()'],['../classCajita_1_1IndexSpace.html#a4036ba5f6174df84d804a882413e4e36',1,'Cajita::IndexSpace::Rank()']]]
+  ['array_5flayout_1328',['array_layout',['../structCajita_1_1LayoutAdapter.html#ae4975495a0f2fa25e5e16f585b190c70',1,'Cajita::LayoutAdapter::array_layout()'],['../structCajita_1_1ReferenceConjugateGradient_1_1LayoutContainer.html#a401eb36140e648f4d5a75ed912f8a679',1,'Cajita::ReferenceConjugateGradient::LayoutContainer::array_layout()']]]
 ];
